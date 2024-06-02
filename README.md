@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Join Windows 10 PC to the Domain</b>
+- [Join Windows 10 to Domain: Desktop 2](https://github.com/roberta-bueno/Win10Desktop2)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/roberta-bueno/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/roberta-bueno/post-install-config)
