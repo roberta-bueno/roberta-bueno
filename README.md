@@ -6,6 +6,7 @@
   - [Join Windows 10 to Domain: Desktop 2](https://github.com/roberta-bueno/Win10Desktop2)
  
 - <b>Common Active Directory Issues, CMD Commands, PC Offline</b>
+  - [Account locked out](https://github.com/roberta-bueno/lockedaccount)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
