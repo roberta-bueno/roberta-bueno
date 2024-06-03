@@ -5,7 +5,7 @@
 - <b>Join Windows 10 PC to the Domain</b>
   - [Join Windows 10 to Domain: Desktop 2](https://github.com/roberta-bueno/Win10Desktop2)
  
-- <b>Common Active Directory Issues, CMD Commands, PC Offline</b>
+- <b>Common Active Directory Issues</b>
   - [Account locked out](https://github.com/roberta-bueno/lockedaccount)
   - [Disabled Account](https://github.com/roberta-bueno/disabledaccount)
   - [Reset Password](https://github.com/roberta-bueno/resetpassword)
