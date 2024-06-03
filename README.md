@@ -8,6 +8,7 @@
 - <b>Common Active Directory Issues, CMD Commands, PC Offline</b>
   - [Account locked out](https://github.com/roberta-bueno/lockedaccount)
   - [Disabled Account](https://github.com/roberta-bueno/disabledaccount)
+  - [Reset Password](https://github.com/roberta-bueno/resetpassword)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
