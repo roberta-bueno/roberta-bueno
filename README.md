@@ -10,6 +10,10 @@
   - [Disabled Account](https://github.com/roberta-bueno/disabledaccount)
   - [Reset Password](https://github.com/roberta-bueno/resetpassword)
 
+- <b>Share Drives, Security Groups and Map Drive</b>
+  - [Share Drives, Security Groups and Map Drive](https://github.com/roberta-bueno/sharesecuritymap)
+  
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/roberta-bueno/osticket-prereqs)
