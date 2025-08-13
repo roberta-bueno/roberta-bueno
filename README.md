@@ -1,7 +1,7 @@
 <h2>Hi, I'm Roberta, an <a href="https://www.linkedin.com/in/roberta-bueno-3771785a/">IT Professional</a>☺</h2>
 
 <h2>Certifications</h2>
-[Google IT Certificate](https://github.com/roberta-bueno/roberta-bueno/blob/main/images/GoogleITCertificate.pdf)
+<a href="https://github.com/roberta-bueno/roberta-bueno/blob/main/images/GoogleITCertificate.pdf" target="_blank">Google IT Certificate</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
