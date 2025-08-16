@@ -8,7 +8,8 @@
 - <b>Join Windows 10 PC to the Domain</b>
   - [Join Windows 10 to Domain: Desktop 2](https://github.com/roberta-bueno/Win10Desktop2)
  
-- <b>Common Active Directory Issues</b>
+- <b> Active Directory </b>
+  - [Setting Up Active Directory](https://github.com/roberta-bueno/settingupactivedirectory)
   - [Account locked out](https://github.com/roberta-bueno/lockedaccount)
   - [Disabled Account](https://github.com/roberta-bueno/disabledaccount)
   - [Reset Password](https://github.com/roberta-bueno/resetpassword)
