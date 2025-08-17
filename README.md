@@ -14,8 +14,8 @@
   - [Disabled Account](https://github.com/roberta-bueno/disabledaccount)
   - [Reset Password](https://github.com/roberta-bueno/resetpassword)
 
-- <b>Share Drives, Security Groups and Map Drive</b>
-  - [Share Drives, Security Groups and Map Drive](https://github.com/roberta-bueno/sharesecuritymap)
+- <b>Share Drives, Security Groups and Folder Permissions</b>
+  - [Share Drives, Security Groups and Folder Permissions](https://github.com/roberta-bueno/sharesecuritymap)
   
 
 
